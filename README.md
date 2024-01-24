@@ -1,9 +1,15 @@
-TypeScript Hello World Demo
+TypeScript Top Level Await Demo
 ===========================
+
+目前来说对于node/ts-node还是无解。
+
+试遍各种办法都不行，包括这个： https://github.com/standard-things/esm/issues/580
+
+要避免使用。
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 Note:
